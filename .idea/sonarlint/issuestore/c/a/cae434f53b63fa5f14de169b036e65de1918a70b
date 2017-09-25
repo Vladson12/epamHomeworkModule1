@@ -1,8 +1,8 @@
 
-Zsquid:S1854"9Remove this useless assignment to local variable "value".(Óö—üÿÿÿÿ8±œ³ê+
-^squid:S2184"BCast one of the operands of this addition operation to a "double".(˜¯¤œ8–§¿ê+
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‹‚Îğ8–§¿ê+
-1squid:S1220""Move this file to a named package.
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(¦²½8–§¿ê+
+Zsquid:S1854"9Remove this useless assignment to local variable "value".(Óö—üÿÿÿÿ8±œ³ê+
+1squid:S1220""Move this file to a named package.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹‚Îğ8–§¿ê+
+^squid:S2184"BCast one of the operands of this addition operation to a "double".(˜¯¤œ8–§¿ê+

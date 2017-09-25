@@ -1,16 +1,16 @@
 
-1squid:S1220""Move this file to a named package.
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾ïÓ¹8­ì„ê+
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(™÷å8 È‹…ê+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú´ª¦üÿÿÿÿ8™ıæ„ê+
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÔÍ¿8Éœñ„ê+
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(»µ¾…şÿÿÿÿ8ê‰…ê+
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ú´ª¦üÿÿÿÿ8™ıæ„ê+
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(âÓäÿÿÿÿÿ8¬—œ…ê+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ïÓ¹8­ì„ê+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™÷å8 È‹…ê+
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(„âçÍûÿÿÿÿ8µ˜ğ„ê+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(âÓäÿÿÿÿÿ8¬—œ…ê+
+1squid:S1220""Move this file to a named package.
